@@ -1,0 +1,81 @@
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #111;
+}
+.1{
+	color:#425c85;
+	font-size:2cm
+}
+body{
+	background-color:#afb8c4
+}
+footer{
+	background-color:#333;
+	color:white;
+	text-align:center;
+}
+#section1{
+	padding:5%;
+	border-radius:10px;
+	padding:9px;
+	border:1px solid black;
+	border-radius:10px;
+box-shadow:10px 10px 10px black;}
+
+
+form{
+	background-color:cream;
+	 border: none;
+    border-radius:;
+    cursor: pointer;
+}input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+border-radius: 5px;}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+	background-color:#425c85;
+    text-align: center;
+}
+
+.profile-pic img {
+    border-radius: 50%;
+}
+
+.personal-info, .about-me, .skills, .interests {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
